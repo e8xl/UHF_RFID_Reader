@@ -4,7 +4,7 @@
 Project Name: RFID Asset Management System
 Version: V1.1.0
 Created Date: 2025/02
-Author: BSCE NT
+Author: *
 
 Description:
     基于PySide6开发的RFID资产管理系统GUI程序
